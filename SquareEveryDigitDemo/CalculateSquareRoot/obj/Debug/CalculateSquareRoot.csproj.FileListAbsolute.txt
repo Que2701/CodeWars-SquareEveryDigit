@@ -1,0 +1,6 @@
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.dll
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\CalculateSquareRoot\bin\Debug\CalculateSquareRoot.pdb
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.csprojAssemblyReference.cache
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.dll
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\CalculateSquareRoot\obj\Debug\CalculateSquareRoot.pdb

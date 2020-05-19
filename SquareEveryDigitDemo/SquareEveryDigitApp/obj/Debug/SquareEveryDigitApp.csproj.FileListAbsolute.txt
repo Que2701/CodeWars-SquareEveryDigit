@@ -1,0 +1,10 @@
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\SquareEveryDigitApp\bin\Debug\SquareEveryDigitApp.exe.config
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\SquareEveryDigitApp\bin\Debug\SquareEveryDigitApp.exe
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\SquareEveryDigitApp\bin\Debug\SquareEveryDigitApp.pdb
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\SquareEveryDigitApp\bin\Debug\CalculateSquareRoot.dll
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\SquareEveryDigitApp\bin\Debug\CalculateSquareRoot.pdb
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\SquareEveryDigitApp\obj\Debug\SquareEveryDigitApp.csprojAssemblyReference.cache
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\SquareEveryDigitApp\obj\Debug\SquareEveryDigitApp.csproj.CoreCompileInputs.cache
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\SquareEveryDigitApp\obj\Debug\SquareEveryDigitApp.csproj.CopyComplete
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\SquareEveryDigitApp\obj\Debug\SquareEveryDigitApp.exe
+D:\Source\Repos\Projects\Codewars\CodeWars-SquareEveryDigit\SquareEveryDigitDemo\SquareEveryDigitApp\obj\Debug\SquareEveryDigitApp.pdb
